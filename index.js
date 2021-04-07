@@ -10,4 +10,6 @@ async function awake() {
   }
 } 
 
-awake();
+setInterval(() => {
+  awake();
+}, 3000);
