@@ -1,0 +1,15 @@
+{
+  "name": "bot-fetch-glitch",
+  "version": "1.0.0",
+  "description": "A bot to wake up a glitch application!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "Victorino, Sairesse <sairessy@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
