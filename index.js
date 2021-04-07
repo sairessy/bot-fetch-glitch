@@ -12,4 +12,4 @@ async function awake() {
 
 setInterval(async () => {
   await awake();
-}, 3000);
+}, 30000);
